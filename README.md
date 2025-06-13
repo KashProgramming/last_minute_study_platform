@@ -27,6 +27,6 @@ Our platform solves all that by being:
 
 ## Future Scope
 - **Multimodal Chatbot**: Text + image understanding using CLIP, BLIP
-- **Smart Flashcards**: Auto-generated, spaced repetition magic
+- **Smart Flashcards**: Auto-generated from content
 - **Personalized Quiz Analytics**: Targeted improvement suggestions
-- **Flowchart Generator**: Visualize your notes like a boss
+- **Flowchart Generator**: Visualize your notes
