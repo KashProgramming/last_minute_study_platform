@@ -1,4 +1,4 @@
-# Last Minute Study Platform
+# OOPS!IDidntStudy: Last Minute Study Platform
 
 > **Cram smarter, not harder.**  
 > This platform helps you turn your study materials into panic notes, chat-ready knowledge bases, and auto-generated quizzes — just in time before the exam.
